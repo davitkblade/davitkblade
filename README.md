@@ -5,7 +5,6 @@
 - 👨‍🎓 Estou no 2º ano em Desenvolvimento de Sistemas
   <div>
     <a href ="https//github.com/davitkblade">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitkblade&show_icons=true&theme=radical)
       <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitkblade&layout=compact&langs_count=16&theme=dark"/>
   </div>
       
