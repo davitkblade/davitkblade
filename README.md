@@ -1,6 +1,6 @@
 ## Oi! Eu sou Davi Damasceno 😁
 
-- 🔭 Hoje eu estou estudando em uma EP do Ceará
+- 🔭  Estou estudando em uma EP do Ceará
 - 🌱 Estou estudando JavaScript
 - 👨‍🎓 Estou no 2º ano em Desenvolvimento de Sistemas
   <div>
