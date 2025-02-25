@@ -1,8 +1,8 @@
 ## Oi! Eu sou Davi Damasceno 😁
 
 - 🔭  Estou estudando em uma EP do Ceará
-- 🌱 Estou estudando JavaScript
-- 👨‍🎓 Estou no 2º ano em Desenvolvimento de Sistemas
+- 🌱 Estou estudando React-Native
+- 👨‍🎓 Estou no 3º ano em Desenvolvimento de Sistemas
   <div>
     <a href ="https//github.com/davitkblade">
       <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitkblade&layout=compact&langs_count=16&theme=dark"/>
